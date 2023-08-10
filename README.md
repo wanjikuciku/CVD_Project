@@ -78,15 +78,22 @@ e) The relationship between smoking history and heart disease - we observed that
 
 
 ## Conclusions 
-The number of heart disease cases increases with age category. 'Older' people tend to be affected more by heart disease compared to young people.
-There is little difference between the male and female category. Although both genders are susceptible to heart disease, the male gender is more affected.
-Based on 'BMI Category', underweight people are less likely to be affected by heart disease while overweight and obese people are more likely to have heart diseases. It is important to note is that normal-weight people are still susceptible to heart disease even if not as much as the others.
-The best model was KNN, with an accuracy of 94% after hyperparameter tuning. However, it was too computationally expensive as it took more than 6 hrs to return results.     Our selected model is therefore the decision tree which gave an accuracy of 90.78%. This accuracy conveys that the model will give the right predictions over 90% of the time.
+- The number of heart disease cases increases with age category. 'Older' people tend to be affected more by heart disease compared to young people.
+
+- There is little difference between the male and female category. Although both genders are susceptible to heart disease, the male gender is more affected.
+
+- Based on 'BMI Category', underweight people are less likely to be affected by heart disease while overweight and obese people are more likely to have heart diseases. It is important to note is that normal-weight people are still susceptible to heart disease even if not as much as the others.
+
+- The best model was KNN, with an accuracy of 94% after hyperparameter tuning. However, it was too computationally expensive as it took more than 6 hrs to return results.    
+- Our selected model is therefore the decision tree which gave an accuracy of 90.78%. 
+This accuracy conveys that the model will give the right predictions over 90% of the time.
 
 ## Recommendations 
-With an accuracy of above 90%, we recommend that health practitioners use the decision tree algorithm generated in this project as the first screening for suspected heart disease cases. 
-We recommend that patients maintain good overall health through healthy habits and regular check-in in order to lower the risk of heart disease.
-Patients who are 55 and older are advised to attend regular screenings to aid in the early detection and management of heart conditions.
-It is recommended that the Nairobi West Hospital promote smoking cessation programs and continue to raise awareness about the cardiovascular risks associated with smoking
-s
+- With an accuracy of above 90%, we recommend that health practitioners use the decision tree algorithm generated in this project as the first screening for suspected heart disease cases. 
+
+- We recommend that patients maintain good overall health through healthy habits and regular check-in in order to lower the risk of heart disease.
+
+- Patients who are 55 and older are advised to attend regular screenings to aid in the early detection and management of heart conditions.
+
+- It is recommended that the Nairobi West Hospital promote smoking cessation programs and continue to raise awareness about the cardiovascular risks associated with smoking.
 
