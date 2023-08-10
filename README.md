@@ -13,8 +13,11 @@ This project takes up two clients:
 Our goal is to leverage machine learning algorithms to improve the diagnosis of cardiovascular disease (CVD) at Nairobi West Hospital. By employing advanced techniques, we aim to provide healthcare professionals with more accurate insights, enhancing diagnostic accuracy and patient care. This project involves a careful review of current research and an evaluation of various machine learning algorithms to determine their effectiveness in CVD diagnosis. Our approach aligns with the hospital's commitment to innovation and excellence in patient care, and it represents a strategic investment in cutting-edge medical technology. The successful implementation of this project will not only benefit the hospital but also the broader community seeking advanced and precise medical care for CVD.
 
 ## Metric of success 
-An accuracy of above 80% was chosen as a metric of success to assess prediction accuracy.
+Precision and Recall: Given the nature of healthcare and the objectives related to patient care, both precision and recall are important. Precision reflects the accuracy of positive predictions, while recall measures the model's ability to correctly identify positive cases. Since false positives and false negatives can have significant implications in healthcare, a balance between precision and recall is important.(Above 80%)
 
+F1-Score: The F1-score is the harmonic mean of precision and recall. It provides a balanced measure that takes into account both false positives and false negatives. A high F1-score indicates a model that performs well in terms of precision and recall.(Above 80%)
+
+Accuracy: Accuracy was chosen as a metric of success to assess prediction accuracy.(Above 80%)
 ## Problem Statement 
 
 The Nairobi West Hospital is in search of a more streamlined and dependable approach of diagnosing CVD and aims to provide patients with expedited diagnostics and mitigate the potential for adverse
