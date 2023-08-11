@@ -78,6 +78,7 @@ c) The relationship between sex and heart disease - we observed that the patient
 e) The relationship between smoking history and heart disease - we observed that the patients who did not smoke recorded a lower count of heart disease compared to the patients who did smoke.    
 
 ## Modelling 
+![image](https://github.com/wanjikuciku/CVD_Project/assets/132939772/a2773740-16d2-4ef8-81a3-7eb1bf2c0797)
 
 
 ## Conclusions 
